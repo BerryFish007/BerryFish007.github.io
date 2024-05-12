@@ -2932,7 +2932,7 @@ function setFont(n) {
   }
   else {
     document.documentElement.style.setProperty('--global-font', n);
-    document.body.style.fontFamily = "var(--global-font),-apple-system, IBM Plex Mono ,monosapce,'微软雅黑', sans-serif";
+    document.body.style.fontFamily = "STKaiti";
   }
   try { setFontBorder(); } catch (err) { };
 }
