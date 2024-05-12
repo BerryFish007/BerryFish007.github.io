@@ -54,7 +54,7 @@ function tonav() {
     position = scroll;
   });
   //修复没有弄右键菜单的童鞋无法回顶部的问题
-  document.getElementById("page-name").innerText = document.title.split(" | 张果果🥝")[0];
+  document.getElementById("page-name").innerText = document.title.split(" | 果果🥝")[0];
 }
 
 function scrollToTop() {
@@ -1119,7 +1119,7 @@ function createtime1() {
   var dnum = Math.floor(days);
 
   var ascll = [
-    `欢迎来到张果果🥝の小家!`,
+    `欢迎来到果果🥝の小家!`,
     `Future is now 🍭🍭🍭`,
     `
         
@@ -1133,7 +1133,7 @@ function createtime1() {
     "小站已经苟活",
     dnum,
     "天啦!",
-    "©2024 By 张果果",
+    "©2024 By 果果",
   ];
 
   setTimeout(
@@ -1172,7 +1172,7 @@ function createtime2() {
   setTimeout(
     console.warn.bind(
       console,
-      "%c ⚡ Powered by 张果果🥝 %c 你正在访问张果果🥝の小家",
+      "%c ⚡ Powered by 果果🥝 %c 你正在访问果果🥝の小家",
       "color:white; background-color:#f0ad4e",
       ""
     )
@@ -1282,8 +1282,8 @@ function share_() {
   try {
     // 截取标题
     var title = document.title;
-    var subTitle = title.endsWith("| 张果果🥝") ? title.substring(0, title.length - 14) : title;
-    navigator.clipboard.writeText('张果果🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
+    var subTitle = title.endsWith("| 果果🥝") ? title.substring(0, title.length - 14) : title;
+    navigator.clipboard.writeText('果果🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
         this.$notify({
@@ -2521,7 +2521,7 @@ if (m == 12 && dd == 25) {//圣诞节
 }
 if (m == 8 && dd == 11) {//站长生日
   if (sessionStorage.getItem("isPopupWindow") != "1") {
-    Swal.fire("祝张果果" + (y - 2004).toString() + "岁生日快乐！🥝");
+    Swal.fire("祝果果" + (y - 2004).toString() + "岁生日快乐！🥝");
     sessionStorage.setItem("isPopupWindow", "1");
   }
 }
