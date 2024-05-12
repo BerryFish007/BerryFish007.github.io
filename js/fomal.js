@@ -2932,7 +2932,8 @@ function setFont(n) {
   }
   else {
     document.documentElement.style.setProperty('--global-font', n);
-    document.body.style.fontFamily = "STKaiti";
+    // 全局字体
+    document.body.style.fontFamily = "sxt,STKaiti";
   }
   try { setFontBorder(); } catch (err) { };
 }
