@@ -2933,7 +2933,7 @@ function setFont(n) {
   else {
     document.documentElement.style.setProperty('--global-font', n);
     // 全局字体
-    document.body.style.fontFamily = "sxt,STKaiti";
+    document.body.style.fontFamily = "SXT,STKaiti";
   }
   try { setFontBorder(); } catch (err) { };
 }
