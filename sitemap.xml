@@ -200,6 +200,13 @@
 
   
   <url>
+    <loc>https://guoguo998866.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2024-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://guoguo998866.github.io/tags/Markdown/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -213,24 +220,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://guoguo998866.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2024-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://guoguo998866.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://guoguo998866.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://guoguo998866.github.io/categories/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://guoguo998866.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
