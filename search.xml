@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>利用Hexo + GitHub搭建个人博客</title>
+      <link href="/posts/fffec311.html"/>
+      <url>/posts/fffec311.html</url>
+      
+        <content type="html"><![CDATA[<h1>安装Git</h1><ul><li><a href="https://git-scm.com/">Git官方网站</a></li><li>未完待续……</li></ul><h1>安装node.js</h1><ul><li><a href="https://nodejs.org/en">node.js官方网站</a></li><li>未完待续……</li></ul><h1>安装Hexo</h1><ul><li><a href="https://hexo.io/zh-cn/docs/">Hexo官方文档</a></li><li>未完待续……</li></ul><h1>安装Butterfuly主题</h1><ul><li><a href="https://butterfly.js.org/">Butterfuly官方文档</a></li><li><a href="#">🥝（魔改版Butterfuly）官方文档</a></li><li>未完待续……</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客搭建 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown语法与外挂标签写法汇总</title>
       <link href="/posts/2013454d.html"/>
       <url>/posts/2013454d.html</url>
