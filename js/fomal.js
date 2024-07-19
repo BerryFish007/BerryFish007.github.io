@@ -674,7 +674,7 @@ if (document.body.clientWidth > 992) {
         zoom: 0.9,
         borderRadius: 5 + 'px',
         right: 55.6 + 'px',
-        nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png",
+        nekoImg: "https://bu.dusays.com/2022/07/20/62d812db74be9.png", // 下拉返回顶部的图片
         hoverMsg: "夏天啦~",
         color: "var(--theme-color)",
         during: 500,
@@ -1321,11 +1321,11 @@ var titleTime;
 document.addEventListener('visibilitychange', function () {
   if (document.hidden) {
     //离开当前页面时标签显示内容
-    document.title = '👀跑哪里去了~';
+    document.title = '🥺等你回来哟~';
     clearTimeout(titleTime);
   } else {
     //返回当前页面时标签显示内容
-    document.title = '🐖抓到你啦～';
+    document.title = '🎊欢迎回家～';
     //两秒后变回正常标题
     titleTime = setTimeout(function () {
       document.title = OriginTitile;
@@ -2849,7 +2849,7 @@ if (window.localStorage.getItem("fpson") == undefined || window.localStorage.get
       if (fps <= 5) {
         var kd = `<span style="color:#bd0000">卡成ppt🤢</span>`
       } else if (fps <= 15) {
-        var kd = `<span style="color:red">电竞级帧率😖</span>`
+        var kd = `<span style="color:red">动不了啦😖</span>`
       } else if (fps <= 25) {
         var kd = `<span style="color:orange">有点难受😨</span>`
       } else if (fps < 35) {
