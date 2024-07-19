@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>果果的小破站🥝</title>
+  <title>果果的小破站🐟</title>
   
   
   <link href="https://guoguo998866.github.io/atom.xml" rel="self"/>
   
   <link href="https://guoguo998866.github.io/"/>
-  <updated>2024-05-18T12:30:44.517Z</updated>
+  <updated>2024-07-17T17:20:14.294Z</updated>
   <id>https://guoguo998866.github.io/</id>
   
   <author>
-    <name>果果🥝</name>
+    <name>果果</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://guoguo998866.github.io/posts/fffec311.html"/>
     <id>https://guoguo998866.github.io/posts/fffec311.html</id>
     <published>2024-05-18T12:16:30.000Z</published>
-    <updated>2024-05-18T12:30:44.517Z</updated>
+    <updated>2024-07-17T17:20:14.294Z</updated>
     
     <content type="html"><![CDATA[<h1>安装Git</h1><ul><li><a href="https://git-scm.com/">Git官方网站</a></li><li>未完待续……</li></ul><h1>安装node.js</h1><ul><li><a href="https://nodejs.org/en">node.js官方网站</a></li><li>未完待续……</li></ul><h1>安装Hexo</h1><ul><li><a href="https://hexo.io/zh-cn/docs/">Hexo官方文档</a></li><li>未完待续……</li></ul><h1>安装Butterfuly主题</h1><ul><li><a href="https://butterfly.js.org/">Butterfuly官方文档</a></li><li><a href="#">🥝（魔改版Butterfuly）官方文档</a></li><li>未完待续……</li></ul><h1>部署到Github</h1><ul><li>未完待续……</li></ul>]]></content>
     
